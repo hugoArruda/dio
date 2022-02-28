@@ -1,0 +1,15 @@
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.csproj.AssemblyReference.cache
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.AssemblyInfoInputs.cache
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.AssemblyInfo.cs
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.csproj.CoreCompileInputs.cache
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/bin/Debug/net5.0/DIO.SERIES.deps.json
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/bin/Debug/net5.0/DIO.SERIES.runtimeconfig.json
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/bin/Debug/net5.0/DIO.SERIES.runtimeconfig.dev.json
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/bin/Debug/net5.0/DIO.SERIES.dll
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/bin/Debug/net5.0/ref/DIO.SERIES.dll
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/bin/Debug/net5.0/DIO.SERIES.pdb
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.dll
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/ref/DIO.SERIES.dll
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.pdb
+/Users/hugoarruda/Documents/Projetos_ayugate/c#/dio/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.genruntimeconfig.cache
